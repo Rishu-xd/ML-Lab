@@ -132,7 +132,7 @@ if __name__ == "__main__":
     try:
        broker.submit_market_order(
     side="BUY",
-    quantity=0.0009,
+    quantity=0.0409,
     reference_price=100_000.00,
 )
     finally:
