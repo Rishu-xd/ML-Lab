@@ -53,6 +53,10 @@ def add_matrices(matrix_a, matrix_b):
 
 
 
+#dot products 
+ 
+
+
 print(f"sum of the vectors is {add_vectors(a,b)}")
 print(f"difference of the vectors is {subtract_vectors(a,b)}")
 print(f"multiplication of the vector a by scalar 2 is {multiply_vector_by_scalar(a,2)}")
